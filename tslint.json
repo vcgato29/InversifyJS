@@ -34,6 +34,7 @@
     "only-arrow-functions": false,
     "prefer-function-over-method": false,
     "prefer-template": false,
+    "prefer-readonly": false,
     "promise-function-async": false,
     "space-before-function-paren": false,
     "strict-boolean-expressions": false,
